@@ -8,7 +8,7 @@ I enjoy big challenges because those are the ones that come with big rewards! Th
 
 For more info about me:
 
-e-mail: andrei-antonio.robu@student.tuiasi.ro
+e-mail: robu.andrei-antonio@gmail.com
 
 my CV: https://drive.google.com/file/d/1SHULQnvDULBy0yf_ISI_5p10Od19_zrW/view?usp=sharing
 
