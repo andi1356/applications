@@ -2,4 +2,4 @@
 
 Car Rental Application
 
-Demo video: 
+Demo video: https://youtu.be/wS7L6Q4bihI
