@@ -4,7 +4,7 @@ Student of "Gh. Asachi" Technical University of Iasi in Computer Sciences and Au
 
 Contact: e-mail | LinkedIn | GitHub |
 
-I enjoy big challenges because those are the ones that come with big rewards! That being said this repository holds some of the projects I developed along the years as I studied diverse programming languages and functionalities of each until I settled with one of them, Python. Right now I am focused in mastering Python and writing clean and well commented code that I can read ten years later and be able to understand.
+I enjoy big challenges because those are the ones that come with big rewards! That being said this repository holds some of the projects I developed along the years as I studied Applied Informatics at the Technical Univerisity of Iasi, Romania.
 
 For more info about me:
 
